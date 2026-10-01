@@ -1,0 +1,6 @@
+# Data is ~100 MB (over GitHub's file limit); download link in README.md
+owid-co2-data.csv
+
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
